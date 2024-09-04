@@ -1,6 +1,5 @@
 from turtle import Turtle
 
-
 class Snake:
     def __init__(self):
         self.high_score = 0
